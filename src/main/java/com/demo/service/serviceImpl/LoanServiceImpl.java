@@ -2,7 +2,7 @@ package com.demo.service.serviceImpl;
 
 import com.demo.co.AggregateCO;
 import com.demo.co.LoanCO;
-import com.demo.dao.repository.LoanRepository;
+import com.demo.repository.LoanRepository;
 import com.demo.entity.Loan;
 import com.demo.service.LoanService;
 import com.demo.vo.LoanVO;
